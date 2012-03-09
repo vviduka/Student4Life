@@ -14,16 +14,6 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 
-
-import android.*;
-import android.app.*;
-
-//ovaj kod je super jako kul i dobar
-//bla
-//bla
-//bla
-
-
 public class Student4LifeActivity extends Activity 
 {
 	private static final int REQUEST_ENABLE_BT = 0;
