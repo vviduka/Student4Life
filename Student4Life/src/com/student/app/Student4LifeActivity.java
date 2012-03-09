@@ -79,7 +79,7 @@ public class Student4LifeActivity extends Activity
 
     	poruka = poruka + "0.0.0.1";
 
-    	ad.setTitle("O programu");
+    	ad.setTitle("Student4Life");
 
     	ad.setMessage(poruka);
 
