@@ -14,8 +14,8 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 
-
-//ovaj kod je super jako kul i dobar
+import android.*;
+import android.app.*;
 
 public class Student4LifeActivity extends Activity 
 {
