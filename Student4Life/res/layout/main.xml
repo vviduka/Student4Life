@@ -2,11 +2,26 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
+    android:gravity="center|fill|fill_horizontal"
     android:orientation="vertical" >
 
-    <TextView
-        android:layout_width="fill_parent"
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="84dp"
         android:layout_height="wrap_content"
-        android:text="@string/hello" />
+        android:onClick="MojButton1"
+        android:text="@string/prihvati" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="84dp"
+        android:layout_height="wrap_content"
+        android:onClick="MojButton2"
+        android:text="@string/odbaci" />
 
 </LinearLayout>

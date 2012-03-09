@@ -3,5 +3,7 @@
 
     <string name="hello">Hello World, Student4LifeActivity!</string>
     <string name="app_name">Student4Life</string>
+    <string name="prihvati">Prihvati</string>
+    <string name="odbaci">Odbaci</string>
 
 </resources>
