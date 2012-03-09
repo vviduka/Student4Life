@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 
 
-
+//ovaj kod je super
 
 public class Student4LifeActivity extends Activity 
 {
