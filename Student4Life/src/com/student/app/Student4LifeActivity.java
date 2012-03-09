@@ -16,6 +16,9 @@ import android.widget.Toast;
 
 
 //ovaj kod je super jako kul i dobar
+//bla
+//bla
+//bla
 
 public class Student4LifeActivity extends Activity 
 {
